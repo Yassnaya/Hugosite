@@ -1,0 +1,6 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = 'Super Hugo Site XXX'
+theme = 'hugo-book'
+x.params.BookMenuBundle = '/docs/menu'
+enableGitInfo = true
